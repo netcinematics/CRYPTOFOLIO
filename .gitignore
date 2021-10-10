@@ -1,3 +1,7 @@
+# CUSTOM
+*.xcf
+*bak
+
 # Logs
 logs
 *.log
