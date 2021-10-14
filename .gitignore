@@ -1,6 +1,7 @@
 # CUSTOM
 *.xcf
 *bak
+TEMPS
 
 # Logs
 logs
