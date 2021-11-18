@@ -23,8 +23,9 @@ CRYPTO Website TEMPLATE for custom NFT curation, and other BLOCKCHAIN experiment
    - CUSTOMIZE the NFTs in a deep way.
    - Much more than 2D Monkeys.
    - The VISION is multi-phase.
+   - GOAL: TXTz, VIDz, BITz, JAMz, CARDz, FREEGAME
    
-   a) 3D MUSIC, VIDEO, BOOK, APP products, with 2D PROMOS.
+   a) 3D MUSIC, VIDEO, BOOK, DAPP products, with 2D PROMOS.
        > this implies SEQUENCING of ATOMIC NFTs, 
        > NAVIGATION from one to many,
        > and PRODUCT RELATIONSHIPS or LINKING.
